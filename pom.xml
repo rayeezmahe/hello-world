@@ -36,8 +36,8 @@
   <artifactId>maven-compiler-plugin</artifactId>
   <version>3.11.0</version> <!-- Use a modern version -->
   <configuration>
-    <source>21</source>     <!-- Or 17 or 11 -->
-    <target>21</target>
+    <source>17</source>     <!-- Or 17 or 11 -->
+    <target>17</target>
   </configuration>
 </plugin>
 
